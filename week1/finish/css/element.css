@@ -1,0 +1,16 @@
+/* css start */
+
+body {
+    margin: 5%;
+    background: #faebd0;
+    text-align: justify;
+}
+ H1,H2, H3, H4, H5, H6 {
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+hr {
+    width: 50%;
+    text-align: center;
+}

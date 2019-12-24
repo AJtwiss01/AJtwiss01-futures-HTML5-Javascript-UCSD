@@ -14,3 +14,11 @@
 [CSS DevDocs](https://devdocs.io/css/)
 
 [Javascript DevDocs](https://devdocs.io/javascript/)
+
+
+
+## CheatSheets
+[Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+
+## UTF8
+[UTF8 W3 School ](https://www.w3schools.com/charsets/ref_html_utf8.asp)
