@@ -1,5 +1,5 @@
 
-#MDM Web Docs
+## MDM Web Docs
 
 [MDM Web Docs on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
@@ -7,7 +7,7 @@
 
 [MDM Web Docs on Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-##DevDocs.io
+## DevDocs
 
 [HTML DevDocs](https://devdocs.io/html/)
 
