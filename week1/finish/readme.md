@@ -1,4 +1,5 @@
-
+### Making a personal site like: 
+(http://www.cs.cornell.edu/home/kleinber/)
 ## MDM Web Docs
 
 [MDM Web Docs on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -24,3 +25,23 @@
 
 ## Unicode Characters
 [Unicode Characters]('https://unicode-table.com/en/sets/')
+
+
+
+## HTML5 Boilerplate
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>💚AJ's Personal Site</title>
+    <link rel="stylesheet" href="./css/style.css">
+  </head>
+  <body>
+   
+  </body>
+</html>
+
+```
