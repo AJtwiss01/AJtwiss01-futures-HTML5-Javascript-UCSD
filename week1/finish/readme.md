@@ -21,3 +21,6 @@
 
 ## UTF8
 [UTF8 W3 School ](https://www.w3schools.com/charsets/ref_html_utf8.asp)
+
+## Unicode Characters
+[Unicode Characters]('https://unicode-table.com/en/sets/')
