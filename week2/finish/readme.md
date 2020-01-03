@@ -45,3 +45,8 @@
 </html>
 
 ```
+
+## CSS Colors
+[Color Hunt](https://colorhunt.co/)
+
+[CSS Color MDN ](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
